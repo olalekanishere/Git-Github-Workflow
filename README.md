@@ -7,7 +7,9 @@ This Repository demonstrates real-world Git and Github workflows including branc
 ## Technologies 
 - Git 
 - Github 
-
+- Branching and Merging
+- Pull Request
+- issues and Collaborations
 
 ## Author
 Muhammed Olalekan
